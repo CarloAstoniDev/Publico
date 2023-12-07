@@ -1,7 +1,7 @@
 ﻿using Catalogo.Application.DTOs;
 using Catalogo.Application.Interfaces;
 using Microsoft.AspNetCore.Mvc;
-
+//teste git
 namespace Catalogo.API.Controllers;
 
 [Route("api/v1/[Controller]")]
